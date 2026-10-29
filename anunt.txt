@@ -1,1 +1,1 @@
-Probleme cu logarea în CEIB prin mpass, așteptăm soluționarea
+S-a restabilit autentificarea în CEIB.
